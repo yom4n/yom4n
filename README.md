@@ -1,4 +1,3 @@
-### Hi there 👋
 [![@humanafterall's Holopin board](https://holopin.me/humanafterall)](https://holopin.io/@humanafterall)
 
 

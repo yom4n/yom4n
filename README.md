@@ -1,6 +1,6 @@
 [![@humanafterall's Holopin board](https://holopin.me/humanafterall)](https://holopin.io/@humanafterall)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?u[](url)sername=yom4n&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yom4n&theme=tokyonight)
 
 
 <!--

@@ -1,5 +1,6 @@
 [![@humanafterall's Holopin board](https://holopin.me/humanafterall)](https://holopin.io/@humanafterall)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?yom4n=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
 <!--
 **SparshMc07/SparshMc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 [![@humanafterall's Holopin board](https://holopin.me/humanafterall)](https://holopin.io/@humanafterall)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yom4n&theme=kacho_ga)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yom4n&theme=great-gatsby)
 
 
 <!--

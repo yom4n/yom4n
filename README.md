@@ -6,8 +6,8 @@
 - <ul>
 📚 I’m currently learning:
   <ul>
-  <li>Graphql and playing around with Github Graphql API</li>
-  <li>How to build AI wrappers</li>
+  <li>How secure authentication works</li>
+  <li>How to build frontend architectures</li>
 </ul>
 </ul>
 
